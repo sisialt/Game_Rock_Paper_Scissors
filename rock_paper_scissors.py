@@ -40,3 +40,7 @@ elif computer_move == paper and player_move == rock:
     print("You lost... :( The rock is covered by the paper. But let`s play again!")
 else:
     print("You lost... :( The paper gets cut by the scissors. But let`s play again!")
+
+# Do you want to play again?
+# different colors
+# scores
